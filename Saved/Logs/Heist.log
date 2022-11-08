@@ -2416,3 +2416,123 @@ Script call stack:
 [2022.11.08-13.01.44:384][890]LogSavePackage: Moving 'E:/Advanced Practice/Heist0/Saved/RoomsMergeBB4D1BA6498222B679181AB2BFE73210.tmp' to 'E:/Advanced Practice/Heist0/Content/Maps/RoomsMerge.umap'
 [2022.11.08-13.01.44:439][890]AssetCheck: New page: Asset Save: RoomsMerge
 [2022.11.08-13.01.44:439][890]LogContentValidation: Display: Validating World /Game/Maps/RoomsMerge.RoomsMerge
+[2022.11.08-13.04.02:179][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE2)
+[2022.11.08-13.04.10:659][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE)
+[2022.11.08-13.04.15:408][224]Cmd: EDIT COPY
+[2022.11.08-13.04.15:811][243]Cmd: EDIT PASTE
+[2022.11.08-13.04.24:303][580]Cmd: TRANSACTION UNDO
+[2022.11.08-13.04.24:304][580]LogEditorTransaction: Undo Move Actors
+[2022.11.08-13.04.30:950][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE4)
+[2022.11.08-13.04.32:195][910]Cmd: DELETE
+[2022.11.08-13.04.32:195][910]Cmd: ACTOR DELETE
+[2022.11.08-13.04.32:243][910]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.08-13.04.32:270][910]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2022.11.08-13.04.32:279][910]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2022.11.08-13.04.36:170][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE14)
+[2022.11.08-13.04.38:695][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE)
+[2022.11.08-13.04.41:100][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE14)
+[2022.11.08-13.04.45:156][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE)
+[2022.11.08-13.04.47:169][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE2)
+[2022.11.08-13.04.51:356][672]Cmd: TRANSACTION UNDO
+[2022.11.08-13.04.51:357][672]LogEditorTransaction: Undo Scale Actors
+[2022.11.08-13.05.26:951][151]Cmd: TRANSACTION UNDO
+[2022.11.08-13.05.26:951][151]LogEditorTransaction: Undo Scale Actors
+[2022.11.08-13.05.32:531][352]LogEditorViewport: Clicking on Actor (LMB): BP_MeetingRoom_C (BP_MeetingRoom)
+[2022.11.08-13.05.47:952][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE)
+[2022.11.08-13.05.48:514][ 62]Cmd: EDIT COPY
+[2022.11.08-13.05.48:754][ 73]Cmd: EDIT PASTE
+[2022.11.08-13.05.51:579][188]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight27)
+[2022.11.08-13.05.52:046][208]Cmd: EDIT COPY
+[2022.11.08-13.05.52:274][218]Cmd: EDIT PASTE
+[2022.11.08-13.05.53:815][286]Cmd: TRANSACTION UNDO
+[2022.11.08-13.05.53:815][286]LogEditorTransaction: Undo Move Actors
+[2022.11.08-13.05.54:521][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE14)
+[2022.11.08-13.05.55:062][328]Cmd: EDIT COPY
+[2022.11.08-13.05.55:267][337]Cmd: EDIT PASTE
+[2022.11.08-13.05.57:472][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE4)
+[2022.11.08-13.06.04:372][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE15)
+[2022.11.08-13.06.24:408][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE14)
+[2022.11.08-13.06.24:964][527]Cmd: EDIT COPY
+[2022.11.08-13.06.25:207][537]Cmd: EDIT PASTE
+[2022.11.08-13.06.36:853][954]Cmd: TRANSACTION UNDO
+[2022.11.08-13.06.36:853][954]LogEditorTransaction: Undo Rotate Actors
+[2022.11.08-13.08.15:654][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE4)
+[2022.11.08-13.08.17:357][534]Cmd: EDIT COPY
+[2022.11.08-13.08.17:648][544]Cmd: EDIT PASTE
+[2022.11.08-13.08.28:622][974]Cmd: EDIT COPY
+[2022.11.08-13.08.28:908][983]Cmd: EDIT PASTE
+[2022.11.08-13.08.50:856][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE16)
+[2022.11.08-13.08.51:246][846]Cmd: EDIT COPY
+[2022.11.08-13.08.51:474][856]Cmd: EDIT PASTE
+[2022.11.08-13.08.56:653][ 41]Cmd: EDIT COPY
+[2022.11.08-13.08.56:816][ 48]Cmd: EDIT PASTE
+[2022.11.08-13.09.38:177][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE22)
+[2022.11.08-13.09.39:141][781]Cmd: DELETE
+[2022.11.08-13.09.39:141][781]Cmd: ACTOR DELETE
+[2022.11.08-13.09.39:196][781]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.08-13.09.39:226][781]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.11.08-13.09.39:239][781]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2022.11.08-13.09.40:056][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE21)
+[2022.11.08-13.10.32:203][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE16)
+[2022.11.08-13.10.33:495][971]Cmd: EDIT COPY
+[2022.11.08-13.10.33:739][978]Cmd: EDIT PASTE
+[2022.11.08-13.10.39:772][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE22)
+[2022.11.08-13.10.52:461][672]LogStaticMesh: Building static mesh SM_AirDuctB...
+[2022.11.08-13.10.52:545][672]LogStaticMesh: Built static mesh [0.08s] /Game/Models/BigCompanyArchViz/StaticMesh/SM_AirDuctB.SM_AirDuctB
+[2022.11.08-13.10.52:608][672]LogActorFactory: Actor Factory created SM_AirDuctB
+[2022.11.08-13.10.53:573][693]LogActorFactory: Actor Factory created SM_AirDuctB
+[2022.11.08-13.10.54:057][710]Cmd: TRANSACTION UNDO
+[2022.11.08-13.10.54:057][710]LogEditorTransaction: Undo Create Actors
+[2022.11.08-13.10.55:100][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE22)
+[2022.11.08-13.10.55:484][747]Cmd: EDIT COPY
+[2022.11.08-13.10.55:729][756]Cmd: EDIT PASTE
+[2022.11.08-13.11.06:082][ 94]Cmd: TRANSACTION UNDO
+[2022.11.08-13.11.06:082][ 94]LogEditorTransaction: Undo Edit Static Mesh
+[2022.11.08-13.11.25:447][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/RoomsMerge" FILE="E:/Advanced Practice/Heist0/Content/Maps/RoomsMerge.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.08-13.11.25:474][745]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.11.08-13.11.26:917][745]LogSavePackage: Moving 'E:/Advanced Practice/Heist0/Saved/RoomsMerge783901AE436A73381C88F29A5290502E.tmp' to 'E:/Advanced Practice/Heist0/Content/Maps/RoomsMerge.umap'
+[2022.11.08-13.11.26:967][745]AssetCheck: New page: Asset Save: RoomsMerge
+[2022.11.08-13.11.26:967][745]LogContentValidation: Display: Validating World /Game/Maps/RoomsMerge.RoomsMerge
+[2022.11.08-13.11.28:841][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch_3B3)
+[2022.11.08-13.11.56:487][905]LogEditorViewport: Clicking on Actor (LMB): DoorControls_C (DoorControls8)
+[2022.11.08-13.11.57:406][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shelves_3B)
+[2022.11.08-13.12.01:413][ 81]LogEditorViewport: Clicking on Actor (LMB): BP_MeetingRoom_C (BP_MeetingRoom)
+[2022.11.08-13.12.03:078][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shelves_3B)
+[2022.11.08-13.12.04:973][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Clock5)
+[2022.11.08-13.12.15:524][639]LogEditorViewport: Clicking on Actor (LMB): DoorControls_C (DoorControls7)
+[2022.11.08-13.12.17:125][699]Cmd: EDIT COPY
+[2022.11.08-13.12.17:369][709]Cmd: EDIT PASTE
+[2022.11.08-13.13.08:414][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/RoomsMerge" FILE="E:/Advanced Practice/Heist0/Content/Maps/RoomsMerge.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.08-13.13.08:445][691]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2022.11.08-13.13.09:836][691]LogSavePackage: Moving 'E:/Advanced Practice/Heist0/Saved/RoomsMerge0BE2D3234D3E8CC1A637C8B3B31A6F89.tmp' to 'E:/Advanced Practice/Heist0/Content/Maps/RoomsMerge.umap'
+[2022.11.08-13.13.09:900][691]AssetCheck: New page: Asset Save: RoomsMerge
+[2022.11.08-13.13.09:900][691]LogContentValidation: Display: Validating World /Game/Maps/RoomsMerge.RoomsMerge
+[2022.11.08-13.13.36:414][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/RoomsMerge" FILE="E:/Advanced Practice/Heist0/Content/Maps/RoomsMerge.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.08-13.13.36:447][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.11.08-13.13.37:839][764]LogSavePackage: Moving 'E:/Advanced Practice/Heist0/Saved/RoomsMerge98B7772E44BA69230989CF9C3CE6CB7A.tmp' to 'E:/Advanced Practice/Heist0/Content/Maps/RoomsMerge.umap'
+[2022.11.08-13.13.37:961][764]AssetCheck: New page: Asset Save: RoomsMerge
+[2022.11.08-13.13.37:961][764]LogContentValidation: Display: Validating World /Game/Maps/RoomsMerge.RoomsMerge
+[2022.11.08-13.13.43:044][956]LogEditorViewport: Clicking on Actor (LMB): DoorControls_C (DoorControls5)
+[2022.11.08-13.13.48:885][177]Cmd: EDIT COPY
+[2022.11.08-13.13.49:122][185]Cmd: EDIT PASTE
+[2022.11.08-13.14.16:166][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/RoomsMerge" FILE="E:/Advanced Practice/Heist0/Content/Maps/RoomsMerge.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.08-13.14.16:195][165]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2022.11.08-13.14.17:615][165]LogSavePackage: Moving 'E:/Advanced Practice/Heist0/Saved/RoomsMerge51708C8142FC56E6A12420B742CC0D49.tmp' to 'E:/Advanced Practice/Heist0/Content/Maps/RoomsMerge.umap'
+[2022.11.08-13.14.17:754][165]AssetCheck: New page: Asset Save: RoomsMerge
+[2022.11.08-13.14.17:754][165]LogContentValidation: Display: Validating World /Game/Maps/RoomsMerge.RoomsMerge
+[2022.11.08-13.14.31:263][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/RoomsMerge" FILE="E:/Advanced Practice/Heist0/Content/Maps/RoomsMerge.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.08-13.14.31:295][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.11.08-13.14.32:759][704]LogSavePackage: Moving 'E:/Advanced Practice/Heist0/Saved/RoomsMerge916AA3E84D4E55AEB351779202CF888C.tmp' to 'E:/Advanced Practice/Heist0/Content/Maps/RoomsMerge.umap'
+[2022.11.08-13.14.32:824][704]AssetCheck: New page: Asset Save: RoomsMerge
+[2022.11.08-13.14.32:824][704]LogContentValidation: Display: Validating World /Game/Maps/RoomsMerge.RoomsMerge
+[2022.11.08-13.14.49:696][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/RoomsMerge" FILE="E:/Advanced Practice/Heist0/Content/Maps/RoomsMerge.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.08-13.14.49:724][845]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.11.08-13.14.51:013][845]LogSavePackage: Moving 'E:/Advanced Practice/Heist0/Saved/RoomsMergeF275259B42939B10DAE65CB7C4B8792D.tmp' to 'E:/Advanced Practice/Heist0/Content/Maps/RoomsMerge.umap'
+[2022.11.08-13.14.51:089][845]AssetCheck: New page: Asset Save: RoomsMerge
+[2022.11.08-13.14.51:089][845]LogContentValidation: Display: Validating World /Game/Maps/RoomsMerge.RoomsMerge
+[2022.11.08-13.14.54:502][984]BlueprintLog: New page: Compile BP_MeetingRoom
+[2022.11.08-13.14.54:586][984]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2022.11.08-13.14.54:927][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BP_MeetingRoom" FILE="E:/Advanced Practice/Heist0/Content/Maps/BP_MeetingRoom.uasset" SILENT=true
+[2022.11.08-13.14.54:953][992]LogSavePackage: Moving 'E:/Advanced Practice/Heist0/Saved/BP_MeetingRoom35CFEF144AEB64BEF8DE46862F52354F.tmp' to 'E:/Advanced Practice/Heist0/Content/Maps/BP_MeetingRoom.uasset'
+[2022.11.08-13.14.54:980][992]AssetCheck: New page: Asset Save: BP_MeetingRoom
+[2022.11.08-13.14.54:980][992]LogContentValidation: Display: Validating Blueprint /Game/Maps/BP_MeetingRoom.BP_MeetingRoom
