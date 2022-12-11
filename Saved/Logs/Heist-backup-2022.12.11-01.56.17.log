@@ -1,0 +1,1615 @@
+﻿Log file open, 12/11/22 00:58:47
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Heist
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.284902
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=JoshKnightDesign -epicuserid=1a0d89c64bd0472d9d36fea0b09fc081 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.11-00.58.48:043][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.11-00.58.48:043][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.11-00.58.48:043][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Engine.ini]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.EarlyZPass:2]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2022.12.11-00.58.48:044][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Engine.ini]
+[2022.12.11-00.58.48:044][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Engine.ini]
+[2022.12.11-00.58.48:044][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Engine.ini]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.11-00.58.48:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Engine.ini]
+[2022.12.11-00.58.48:045][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Engine.ini]
+[2022.12.11-00.58.48:063][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.11-00.58.48:063][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.11-00.58.48:064][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.11-00.58.48:064][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.11-00.58.48:064][  0]LogHAL: Display: Platform has ~ 16 GB [17137668096 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.11-00.58.48:064][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.11-00.58.48:064][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.11-00.58.48:064][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.11-00.58.48:065][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.11-00.58.48:066][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Engine.ini]
+[2022.12.11-00.58.48:066][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Config/Windows/Editor.ini]
+[2022.12.11-00.58.48:066][  0]LogInit: Computer: DESKTOP-5P3GUJ4
+[2022.12.11-00.58.48:066][  0]LogInit: User: FiercePC
+[2022.12.11-00.58.48:066][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.12.11-00.58.48:066][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.11-00.58.48:066][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.12.11-00.58.48:066][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.11-00.58.48:066][  0]LogMemory: Process Physical Memory: 140.38 MB used, 140.38 MB peak
+[2022.12.11-00.58.48:066][  0]LogMemory: Process Virtual Memory: 114.49 MB used, 114.49 MB peak
+[2022.12.11-00.58.48:066][  0]LogMemory: Physical Memory: 9984.42 MB used,  6359.33 MB free, 16343.75 MB total
+[2022.12.11-00.58.48:066][  0]LogMemory: Virtual Memory: 134203224.00 MB used,  14500.55 MB free, 134217728.00 MB total
+[2022.12.11-00.58.48:070][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.11-00.58.48:103][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.11-00.58.48:103][  0]LogInit: Using OS detected language (en-GB).
+[2022.12.11-00.58.48:103][  0]LogInit: Using OS detected locale (en-GB).
+[2022.12.11-00.58.48:109][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2022.12.11-00.58.48:267][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.11-00.58.48:277][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.11-00.58.48:292][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.11-00.58.48:292][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.11-00.58.48:923][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2022.12.11-00.58.48:923][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.11-00.58.48:923][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.11-00.58.48:924][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.11-00.58.49:023][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2022.12.11-00.58.49:023][  0]LogD3D11RHI:       11127/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2022.12.11-00.58.49:026][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.11-00.58.49:026][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.11-00.58.49:026][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.12.11-00.58.49:032][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.11-00.58.49:032][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.11-00.58.49:032][  0]LogWindows: EnumDisplayDevices:
+[2022.12.11-00.58.49:032][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2022.12.11-00.58.49:032][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2022.12.11-00.58.49:033][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2022.12.11-00.58.49:033][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2022.12.11-00.58.49:033][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.11-00.58.49:033][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2022.12.11-00.58.49:033][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.12.11-00.58.49:033][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2022.12.11-00.58.49:033][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2022.12.11-00.58.49:085][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.11-00.58.49:085][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.11-00.58.49:085][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.11-00.58.49:100][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.12.11-00.58.49:103][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.12.11-00.58.52:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.11-00.58.52:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.11-00.58.52:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.11-00.58.52:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.11-00.58.52:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.11-00.58.52:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.11-00.58.52:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.11-00.58.52:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.11-00.58.52:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.11-00.58.52:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.11-00.58.52:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.11-00.58.52:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.11-00.58.52:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.11-00.58.52:168][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.11-00.58.52:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.11-00.58.52:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.11-00.58.52:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.11-00.58.52:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.11-00.58.52:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.11-00.58.52:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.11-00.58.52:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.11-00.58.52:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.11-00.58.52:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.12.11-00.58.52:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.12.11-00.58.52:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.12.11-00.58.52:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.12.11-00.58.52:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.11-00.58.52:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.11-00.58.52:291][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.11-00.58.52:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.11-00.58.52:310][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.11-00.58.52:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.11-00.58.52:320][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.11-00.58.52:327][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.11-00.58.52:393][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.11-00.58.52:393][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Intermediate/Shaders/WorkingDirectory/21488/).
+[2022.12.11-00.58.52:394][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/FiercePC/AppData/Local/Temp/UnrealShaderWorkingDir/8EAC15D34815B6EED2C5A094347AD69A/'.
+[2022.12.11-00.58.52:394][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.11-00.58.52:394][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.11-00.58.53:316][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.11-00.58.53:379][  0]LogDerivedDataCache: Loaded boot cache 0.06s 99MB C:/Users/FiercePC/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.12.11-00.58.53:379][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/FiercePC/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.12.11-00.58.53:379][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/FiercePC/Documents/GitHub/Heist0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.11-00.58.53:379][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.11-00.58.53:379][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/FiercePC/Documents/GitHub/Heist0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.11-00.58.53:379][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.11-00.58.53:389][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.11-00.58.53:390][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.11-00.58.53:390][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.11-00.58.53:497][  0]LogDerivedDataCache: Speed tests for C:/Users/FiercePC/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.11 seconds
+[2022.12.11-00.58.53:497][  0]LogDerivedDataCache: Display: Performance to C:/Users/FiercePC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1151.74MBs, RandomWriteSpeed=8.73MBs. Assigned SpeedClass 'Local'
+[2022.12.11-00.58.53:498][  0]LogDerivedDataCache: Using Local data cache path C:/Users/FiercePC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.11-00.58.53:498][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.11-00.58.53:498][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.11-00.58.56:679][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.11-00.58.56:679][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.11-00.58.56:702][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2022.12.11-00.58.56:923][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.11-00.58.56:923][  0]LogInit: Active device profile: [000002A4815E2F00][000002A4F453CE40 49] Windows
+[2022.12.11-00.58.56:923][  0]LogInit: Profiles: [000002A4815E2F00][000002A4F453CE40 49] Windows, [000002A4815B1300][000002A4FEDA0FC0 49] WindowsNoEditor, [000002A4815E1300][000002A4FEDA5140 49] WindowsServer, [000002A4815B2700][000002A4FEDA92C0 49] WindowsClient, [000002A4815E2600][000002A4FEDAD440 49] IOS, [000002A4815B1C00][000002A4FE7695C0 49] iPadAir, [000002A4815E1B00][000002A4FE76D740 49] iPadAir2, [000002A481558100][000002A4FE771980 49] IPadPro, [000002A481558200][000002A4F45419C0 49] iPadAir3, [000002A4815E3000][000002A4FE775B00 49] iPadAir4, [000002A48155A800][000002A4FE779C40 49] iPadMini2, [000002A4815E1200][000002A4FE780100 49] iPadMini3, [000002A481558600][000002A4FE784280 49] iPadMini4, [000002A4815E1800][000002A4FE788400 49] iPadMini5, [000002A48153F900][000002A4FE7906C0 49] iPhone6, [000002A48153FA00][000002A4FE78C700 49] iPodTouch6, [000002A48155A400][000002A4FE7989C0 49] iPhone7, [000002A48155A500][000002A4FE794A00 49] iPodTouch7, [000002A48153D700][000002A4FE79CB80 49] iPhone5S, [000002A481558F00][000002A4FE7AAD00 49] iPhone6Plus, [000002A48153FC00][000002A4FE7AEE80 49] iPhone6S, [000002A48155AF00][000002A4FE7B3000 49] iPhone6SPlus, [000002A48153D300][000002A4FE7B7180 49] iPhone7Plus, [000002A48155B100][000002A4FE7BB300 49] iPhoneSE, [000002A48153E300][000002A4FE7BF480 49] iPhone8, [000002A481558300][000002A4FE7C3600 49] iPhone8Plus, [000002A48153F600][000002A4FE7C7780 49] iPhoneX, [000002A481558E00][000002A4FE7CB900 49] iPhoneXS, [000002A48153D600][000002A4FE77DA40 49] iPhoneXSMax, [000002A48155BF00][000002A4FE7CFB80 49] iPhoneXR, [000002A48153FF00][000002A4FE7D3CC0 49] iPhone11, [000002A481559100][000002A4FE7DA180 49] iPhone11Pro, [000002A48153D400][000002A4FE7DE300 49] iPhone11ProMax, [000002A481559300][000002A4FE7E2480 49] iPhoneSE2, [000002A48153F200][000002A4FE7E6600 49] iPhone12Mini, [000002A48155B200][000002A4FE7EA780 49] iPhone12, [000002A48153E900][000002A4FE7EE900 49] iPhone12Pro, [000002A481558B00][000002A4FE7F2A80 49] iPhone12ProMax, [000002A48153E100][000002A4FE7F6C00 49] iPadPro105, [000002A48155A900][000002A4FE7FAD80 49] iPadPro129, [000002A48153CE00][000002A4FE7FEF00 49] iPadPro97, [000002A48155A300][000002A4FE803080 49] iPadPro2_129, [000002A48153F000][000002A4FE807200 49] iPad5, [000002A48155B900][000002A4FE80B380 49] iPad6, [000002A48153CB00][000002A4FE80F500 49] iPad7, [000002A481558A00][000002A4FE813680 49] iPad8, [000002A48153D100][000002A4FE817800 49] iPadPro11, [000002A481558D00][000002A4FE81B980 49] iPadPro2_11, [000002A48153C800][000002A4FE7D7AC0 49] iPadPro3_129, [000002A481559800][000002A4FE81FC00 49] iPadPro4_129, [000002A48153FE00][000002A4FE823D40 49] AppleTV, [000002A48155BE00][000002A4FE8261C0 49] AppleTV4K, [000002A48153D800][000002A4FE82E340 49] TVOS, [000002A48155B800][000002A4FE8324C0 49] Mac, [000002A48153E000][000002A4FE836640 49] MacClient, [000002A481559E00][000002A4FE83A7C0 49] MacNoEditor, [000002A4815B0C00][000002A4FE83E940 49] MacServer, [000002A48163D100][000002A4FE842AC0 49] Linux, [000002A4815B3300][000002A4FE846C40 49] LinuxAArch64, [000002A48163C500][000002A4FE84ADC0 49] LinuxNoEditor, [000002A4815B3400][000002A4FE84EF40 49] LinuxAArch64NoEditor, [000002A48163C100][000002A4FE8530C0 49] LinuxClient, [000002A4815B0300][000002A4FE857240 49] LinuxAArch64Client, [000002A48163C600][000002A4FE85B3C0 49] LinuxServer, [000002A4815B2800][000002A4FE85F540 49] LinuxAArch64Server, [000002A48163D400][000002A4FE8636C0 49] Android, [000002A4815B2000][000002A4FE867840 49] Android_Low, [000002A48163CC00][000002A4FE86B9C0 49] Android_Mid, [000002A4815B1A00][000002A4FE82BB00 49] Android_High, [000002A48163D800][000002A4FE86FC40 49] Android_Default, [000002A4815B1100][000002A4FE8720C0 49] Android_Adreno4xx, [000002A48155A100][000002A4FE876200 49] Android_Adreno5xx_Low, [000002A4815B3900][000002A4FE87E380 49] Android_Adreno5xx, [000002A48155B600][000002A4FE882500 49] Android_Adreno6xx, [000002A4815B3000][000002A4FE886680 49] Android_Adreno6xx_Vulkan, [000002A48155A000][000002A4FE88A800 49] Android_Mali_T6xx, [000002A4815B1900][000002A4FE88E980 49] Android_Mali_T7xx, [000002A48155B300][000002A4FE892B00 49] Android_Mali_T8xx, [000002A4815B0600][000002A4FE896C80 49] Android_Mali_G71, [000002A48155BC00][000002A4FE89AE00 49] Android_Mali_G72, [000002A4815B0900][000002A4FE89EF80 49] Android_Mali_G72_Vulkan, [000002A481558400][000002A4FE8A3100 49] Android_Mali_G76, [000002A4815B3100][000002A4FE8A7280 49] Android_Mali_G76_Vulkan, [000002A48155AB00][000002A4FE8AB400 49] Android_Mali_G77, [000002A4815B1700][000002A4FE8AF580 49] Android_Mali_G77_Vulkan, [000002A48155AA00][000002A4FE8B3700 49] Android_Vulkan_SM5, [000002A4815B0D00][000002A4FE8B7880 49] Android_PowerVR_G6xxx, [000002A48155A200][000002A4FE8BBA00 49] Android_PowerVR_GT7xxx, [000002A4815B3500][000002A4FE8BFB80 49] Android_PowerVR_GE8xxx, [000002A48155AE00][000002A4FE87BCC0 49] Android_PowerVR_GM9xxx, [000002A4815B2100][000002A4FE8C2140 49] Android_PowerVR_GM9xxx_Vulkan, [000002A481558500][000002A4FE8C6280 49] Android_TegraK1, [000002A4815B3700][000002A4FE8CE400 49] Android_Unknown_Vulkan, [000002A48155AD00][000002A4FE8D2580 49] Lumin, [000002A4815B0A00][000002A4FE8D6700 49] Lumin_Desktop, [000002A48155B500][000002A4FE8DA880 49] HoloLens, 
+[2022.12.11-00.58.57:036][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.11-00.58.57:036][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.11-00.58.57:036][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.11-00.58.57:036][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.11-00.58.57:036][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.11-00.58.57:178][  0]LogNetVersion: Heist 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1435742018)
+[2022.12.11-00.59.01:142][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.11-00.59.01:194][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.051463 seconds
+[2022.12.11-00.59.01:199][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.12.11-00.59.01:199][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.12.11-00.59.01:199][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.11-00.59.02:986][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.11-00.59.02:991][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.11-00.59.10:262][  0]SourceControl: Source control is disabled
+[2022.12.11-00.59.10:262][  0]SourceControl: Source control is disabled
+[2022.12.11-00.59.10:264][  0]SourceControl: Source control is disabled
+[2022.12.11-00.59.10:267][  0]SourceControl: Source control is disabled
+[2022.12.11-00.59.10:476][  0]SourceControl: Source control is disabled
+[2022.12.11-00.59.10:481][  0]LogUProjectInfo: Found projects:
+[2022.12.11-00.59.10:818][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.11-00.59.10:834][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.11-00.59.10:834][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.11-00.59.10:876][  0]LogCollectionManager: Loaded 0 collections in 0.001210 seconds
+[2022.12.11-00.59.10:895][  0]LogFileCache: Scanning file cache for directory 'C:/Users/FiercePC/Documents/GitHub/Heist0/Saved/Collections/' took 0.00s
+[2022.12.11-00.59.10:895][  0]LogFileCache: Scanning file cache for directory 'C:/Users/FiercePC/Documents/GitHub/Heist0/Content/Developers/FiercePC/Collections/' took 0.00s
+[2022.12.11-00.59.10:895][  0]LogFileCache: Scanning file cache for directory 'C:/Users/FiercePC/Documents/GitHub/Heist0/Content/Collections/' took 0.00s
+[2022.12.11-00.59.10:895][  0]LogOcInput: OculusInput pre-init called
+[2022.12.11-00.59.10:905][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.12.11-00.59.10:905][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.12.11-00.59.10:943][  0]LogEngine: Initializing Engine...
+[2022.12.11-00.59.11:007][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2022.12.11-00.59.11:007][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.11-00.59.11:008][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.11-00.59.11:441][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.11-00.59.12:121][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.11-00.59.12:122][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.11-00.59.12:125][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.11-00.59.12:125][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.11-00.59.12:125][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.11-00.59.12:125][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.11-00.59.12:125][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.11-00.59.12:125][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.11-00.59.12:125][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.11-00.59.12:125][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.11-00.59.12:125][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.11-00.59.12:125][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.11-00.59.12:125][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.11-00.59.12:125][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.11-00.59.12:138][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.11-00.59.12:138][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.11-00.59.12:159][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.11-00.59.12:159][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.11-00.59.12:160][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.11-00.59.12:160][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.11-00.59.12:161][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.11-00.59.12:161][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.11-00.59.12:161][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.11-00.59.12:162][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.11-00.59.12:162][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.11-00.59.12:162][  0]LogInit: FAudioDevice initialized.
+[2022.12.11-00.59.12:162][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.11-00.59.12:162][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.11-00.59.14:100][  0]LogDerivedDataCache: Saved boot cache 1.94s 99MB C:/Users/FiercePC/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.12.11-00.59.14:104][  0]LogInit: Texture streaming: Enabled
+[2022.12.11-00.59.14:114][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.12.11-00.59.14:117][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.11-00.59.14:117][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.11-00.59.14:121][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.11-00.59.14:166][  0]LogInit: Transaction tracking system initialized
+[2022.12.11-00.59.14:184][  0]BlueprintLog: New page: Editor Load
+[2022.12.11-00.59.14:244][  0]LocalizationService: Localization service is disabled
+[2022.12.11-00.59.14:263][  0]TimingProfiler: Initialize
+[2022.12.11-00.59.14:264][  0]TimingProfiler: OnSessionChanged
+[2022.12.11-00.59.14:264][  0]LoadingProfiler: Initialize
+[2022.12.11-00.59.14:264][  0]LoadingProfiler: OnSessionChanged
+[2022.12.11-00.59.14:264][  0]NetworkingProfiler: Initialize
+[2022.12.11-00.59.14:264][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.11-00.59.14:264][  0]MemoryProfiler: Initialize
+[2022.12.11-00.59.14:264][  0]MemoryProfiler: OnSessionChanged
+[2022.12.11-00.59.19:572][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.12.11-00.59.19:572][  0]LogCook: Display: Mobile HDR setting 1
+[2022.12.11-00.59.19:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/FiercePC/Documents/GitHub/Heist0/Content/' took 0.32s
+[2022.12.11-00.59.21:552][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.11-00.59.21:554][  0]SourceControl: Source control is disabled
+[2022.12.11-00.59.21:554][  0]LogUnrealEdMisc: Loading editor; pre map load, took 35.040
+[2022.12.11-00.59.21:554][  0]Cmd: MAP LOAD FILE="../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.11-00.59.22:015][  0]LightingResults: New page: Lighting Build
+[2022.12.11-00.59.22:016][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-00.59.22:016][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-00.59.22:016][  0]MapCheck: New page: Map Check
+[2022.12.11-00.59.22:016][  0]LightingResults: New page: Lighting Build
+[2022.12.11-00.59.22:818][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.12.11-01.01.00:678][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2022.12.11-01.01.00:680][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.12.11-01.01.00:777][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.11-01.01.00:778][  0]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=680.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2022.12.11-01.01.00:801][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.12.11-01.01.00:904][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.11-01.01.00:904][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.196ms to complete.
+[2022.12.11-01.01.00:904][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 99.350
+[2022.12.11-01.01.00:906][  0]LogUnrealEdMisc: Total Editor Startup Time, took 134.391
+[2022.12.11-01.01.01:249][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-01.01.01:258][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-01.01.01:264][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-01.01.01:270][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-01.01.01:424][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0088 seconds. Added 3610 classes and 864 folders.
+[2022.12.11-01.01.01:564][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.11-01.01.01:602][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.11-01.01.01:602][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:602][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.11-01.01.01:602][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.12.11-01.01.01:618][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.11-01.01.01:618][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:618][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.11-01.01.01:618][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.12.11-01.01.01:630][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.12.11-01.01.01:630][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:630][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.12.11-01.01.01:630][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.12.11-01.01.01:674][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.11-01.01.01:674][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:674][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.11-01.01.01:674][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.12.11-01.01.01:695][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.11-01.01.01:695][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:695][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.11-01.01.01:695][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.12.11-01.01.01:705][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.11-01.01.01:705][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:705][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.11-01.01.01:705][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.12.11-01.01.01:708][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.11-01.01.01:708][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:709][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.11-01.01.01:709][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.12.11-01.01.01:723][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.11-01.01.01:723][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:723][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.11-01.01.01:723][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.12.11-01.01.01:745][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.11-01.01.01:745][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:745][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.11-01.01.01:745][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.12.11-01.01.01:768][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.11-01.01.01:768][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:768][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.11-01.01.01:768][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.12.11-01.01.01:803][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.11-01.01.01:803][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:803][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.11-01.01.01:803][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.12.11-01.01.01:822][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.11-01.01.01:822][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:822][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.11-01.01.01:822][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.12.11-01.01.01:827][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.11-01.01.01:827][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:827][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.11-01.01.01:827][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.12.11-01.01.01:842][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.11-01.01.01:842][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:842][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.11-01.01.01:842][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.12.11-01.01.01:849][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.11-01.01.01:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.11-01.01.01:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2022.12.11-01.01.01:857][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.11-01.01.01:857][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:857][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.11-01.01.01:857][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2022.12.11-01.01.01:871][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.11-01.01.01:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.11-01.01.01:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.12.11-01.01.01:913][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.11-01.01.01:913][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:913][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.11-01.01.01:913][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2022.12.11-01.01.01:929][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.11-01.01.01:929][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:929][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.11-01.01.01:929][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2022.12.11-01.01.01:939][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.11-01.01.01:939][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:939][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.11-01.01.01:939][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2022.12.11-01.01.01:951][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.11-01.01.01:951][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:951][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.11-01.01.01:951][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2022.12.11-01.01.01:973][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.11-01.01.01:973][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:973][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.11-01.01.01:973][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2022.12.11-01.01.01:982][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.12.11-01.01.01:982][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:982][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.12.11-01.01.01:982][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2022.12.11-01.01.01:993][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.11-01.01.01:993][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.01:993][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.11-01.01.01:993][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2022.12.11-01.01.02:055][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.11-01.01.02:055][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.02:055][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.11-01.01.02:055][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2022.12.11-01.01.02:065][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.11-01.01.02:065][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-01.01.02:065][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.11-01.01.02:065][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2022.12.11-01.01.05:079][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.11-01.01.05:114][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.12.11-01.01.05:735][  0]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.11-01.01.05:738][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.11-01.01.05:760][  0]LogSlate: Took 0.018761 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.11-01.01.06:067][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2022.12.11-01.01.06:933][  0]LogSlate: Took 0.032301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.11-01.01.07:051][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.11-01.01.07:051][  0]LogLoad: (Engine Initialization) Total time: 140.54 seconds
+[2022.12.11-01.01.07:051][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.11-01.01.07:051][  0]LogInit: First time updating LLM stats...
+[2022.12.11-01.01.07:070][  0]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.12.11-01.01.07:740][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.11-01.01.08:994][  1]LogAssetRegistry: Asset discovery search completed in 132.2924 seconds
+[2022.12.11-01.01.08:995][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.12.11-01.01.09:194][  2]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.11-01.01.20:561][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.12.11-01.01.22:135][106]LogSlate: Window 'Save Content' being destroyed
+[2022.12.11-01.01.22:418][106]LogLinker: Warning: [AssetLog] C:\Users\FiercePC\Documents\GitHub\Heist0\Content\Heist_Masters\MI_PaintedWall_Plaster_Clean.uasset: Failed to load '/Game/Nostromo/BaseMaterials/Textures/Utility/Imperfection/T_RoughnessGrunge_Utility': Can't find file.
+[2022.12.11-01.01.22:418][106]LogLinker: Warning: [AssetLog] C:\Users\FiercePC\Documents\GitHub\Heist0\Content\Heist_Masters\MI_PaintedWall_Plaster_Clean.uasset: Failed to load '/Game/Nostromo/BaseMaterials/Textures/Utility/Imperfection/T_RoughnessGrunge_Utility': Can't find file.
+[2022.12.11-01.01.22:419][106]LogLinker: Warning: [AssetLog] C:\Users\FiercePC\Documents\GitHub\Heist0\Content\Heist_Masters\MI_PaintedWall_Plaster_Clean.uasset: Failed to load '/Game/Nostromo/BaseMaterials/Textures/Utility/Imperfection/T_RoughnessGrunge_Utility': Can't find file.
+[2022.12.11-01.01.31:187][106]LogTexture: Display: Building textures: Model_Metallic_1003 (AutoDXT, 4096X4096)
+[2022.12.11-01.01.31:187][106]LogTexture: Display: Building textures: Model_Roughness_1003 (AutoDXT, 4096X4096)
+[2022.12.11-01.01.31:205][106]LogLinker: Warning: [AssetLog] C:\Users\FiercePC\Documents\GitHub\Heist0\Content\Heist_Masters\MI_PaintedWall_Plaster_Clean.uasset: Failed to load '/Game/Nostromo/BaseMaterials/Textures/Utility/Imperfection/T_RoughnessGrunge_Utility': Can't find file.
+[2022.12.11-01.01.31:317][106]LoadErrors: Failed to load /Game/Nostromo/BaseMaterials/Textures/Utility/Imperfection/T_RoughnessGrunge_Utility.T_RoughnessGrunge_Utility Referenced by MI_PaintedWall_Plaster_Clean
+[2022.12.11-01.01.31:318][106]LogLinker: Warning: [AssetLog] C:\Users\FiercePC\Documents\GitHub\Heist0\Content\Heist_Masters\MI_PaintedWall_Plaster_Clean.uasset: Failed to load '/Game/Nostromo/BaseMaterials/Textures/Utility/Imperfection/T_RoughnessGrunge_Utility': Can't find file.
+[2022.12.11-01.02.06:682][106]LogTexture: Display: Building textures: Model_Normal_1003 (BC5, 4096X4096)
+[2022.12.11-01.02.06:682][106]LogTexture: Display: Building textures: Model_Metallic_1004 (AutoDXT, 4096X4096)
+[2022.12.11-01.02.06:682][106]LogTexture: Display: Building textures: Model_BaseColor_1003 (AutoDXT, 4096X4096)
+[2022.12.11-01.02.06:682][106]LogTexture: Display: Building textures: Model_Roughness_1004 (AutoDXT, 4096X4096)
+[2022.12.11-01.02.06:682][106]LogTexture: Display: Building textures: Model_BaseColor_1004 (AutoDXT, 4096X4096)
+[2022.12.11-01.02.06:682][106]LogTexture: Display: Building textures: Model_Normal_1004 (BC5, 4096X4096)
+[2022.12.11-01.02.06:682][106]LogMaterial: Display: Missing cached shader map for material M_PropBase, compiling. 
+[2022.12.11-01.02.07:707][106]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2022.12.11-01.02.07:707][106]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.12.11-01.02.07:707][106]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2022.12.11-01.02.07:707][106]LogStaticMesh: Building static mesh vault_02__Wall_Vault_geo...
+[2022.12.11-01.02.08:257][106]LogStaticMesh: Built static mesh [0.57s] /Game/Models/Porp/StaticMesh/vault_02__Wall_Vault_geo.vault_02__Wall_Vault_geo
+[2022.12.11-01.02.08:498][106]LogStaticMesh: Building static mesh vault_01_Vault_18_geo...
+[2022.12.11-01.02.08:516][106]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Porp/StaticMesh/vault_01_Vault_18_geo.vault_01_Vault_18_geo
+[2022.12.11-01.02.08:666][106]LogStaticMesh: Building static mesh vault_01_Vault_17_geo...
+[2022.12.11-01.02.08:702][106]LogStaticMesh: Built static mesh [0.12s] /Game/Models/Porp/StaticMesh/vault_01_Vault_17_geo.vault_01_Vault_17_geo
+[2022.12.11-01.02.08:789][106]LogStaticMesh: Building static mesh vault_01_Vault_16_geo...
+[2022.12.11-01.02.08:794][106]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Porp/StaticMesh/vault_01_Vault_16_geo.vault_01_Vault_16_geo
+[2022.12.11-01.02.08:795][106]LogStaticMesh: Building static mesh vault_01_Vault_15_geo...
+[2022.12.11-01.02.08:809][106]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Porp/StaticMesh/vault_01_Vault_15_geo.vault_01_Vault_15_geo
+[2022.12.11-01.02.08:869][106]LogStaticMesh: Building static mesh vault_01_Vault_14_geo...
+[2022.12.11-01.02.08:873][106]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Porp/StaticMesh/vault_01_Vault_14_geo.vault_01_Vault_14_geo
+[2022.12.11-01.02.09:108][106]LogStaticMesh: Building static mesh vault_01_Vault_13_geo...
+[2022.12.11-01.02.09:131][106]LogStaticMesh: Built static mesh [0.09s] /Game/Models/Porp/StaticMesh/vault_01_Vault_13_geo.vault_01_Vault_13_geo
+[2022.12.11-01.02.09:188][106]LogStaticMesh: Building static mesh vault_01_Vault_12_geo...
+[2022.12.11-01.02.09:196][106]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Porp/StaticMesh/vault_01_Vault_12_geo.vault_01_Vault_12_geo
+[2022.12.11-01.02.09:315][106]LogStaticMesh: Building static mesh vault_01_Vault_11_geo...
+[2022.12.11-01.02.09:328][106]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Porp/StaticMesh/vault_01_Vault_11_geo.vault_01_Vault_11_geo
+[2022.12.11-01.02.09:423][106]LogStaticMesh: Building static mesh vault_01_Vault_10_geo...
+[2022.12.11-01.02.09:430][106]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Porp/StaticMesh/vault_01_Vault_10_geo.vault_01_Vault_10_geo
+[2022.12.11-01.02.09:527][106]LogStaticMesh: Building static mesh vault_01_Vault_09_geo...
+[2022.12.11-01.02.09:737][106]LogStaticMesh: Built static mesh [0.21s] /Game/Models/Porp/StaticMesh/vault_01_Vault_09_geo.vault_01_Vault_09_geo
+[2022.12.11-01.02.09:863][106]LogStaticMesh: Building static mesh vault_01_Vault_08_geo...
+[2022.12.11-01.02.09:881][106]LogStaticMesh: Built static mesh [0.11s] /Game/Models/Porp/StaticMesh/vault_01_Vault_08_geo.vault_01_Vault_08_geo
+[2022.12.11-01.02.09:947][106]LogStaticMesh: Building static mesh vault_01_Vault_07_geo...
+[2022.12.11-01.02.09:948][106]LogStaticMesh: Built static mesh [0.06s] /Game/Models/Porp/StaticMesh/vault_01_Vault_07_geo.vault_01_Vault_07_geo
+[2022.12.11-01.02.10:835][106]LogMeshUtilities: Finished distance field build in 1.8s - 37x12x28 distance field, 13579 triangles, Range [-0.1, 0.5], vault_02__Wall_Vault_geo
+[2022.12.11-01.02.10:835][106]LogMeshUtilities: Discarded distance field for vault_01_Vault_07_geo as mesh was not closed!  Assign a two-sided material to fix.
+[2022.12.11-01.02.10:835][106]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 32 triangles, Range [-0.4, 1.0], vault_01_Vault_07_geo
+[2022.12.11-01.02.10:835][106]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 408 triangles, Range [-0.1, 0.9], vault_01_Vault_08_geo
+[2022.12.11-01.02.10:835][106]LogMeshUtilities: Finished distance field build in 0.2s - 14x21x25 distance field, 3840 triangles, Range [-0.0, 1.0], vault_01_Vault_09_geo
+[2022.12.11-01.02.10:835][106]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x11 distance field, 984 triangles, Range [0.0, 0.6], vault_01_Vault_10_geo
+[2022.12.11-01.02.10:835][106]LogMeshUtilities: Discarded distance field for vault_01_Vault_11_geo as mesh was not closed!  Assign a two-sided material to fix.
+[2022.12.11-01.02.10:835][106]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 768 triangles, Range [-0.4, 1.0], vault_01_Vault_11_geo
+[2022.12.11-01.02.10:835][106]LogMeshUtilities: Discarded distance field for vault_01_Vault_12_geo as mesh was not closed!  Assign a two-sided material to fix.
+[2022.12.11-01.02.10:835][106]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 768 triangles, Range [-0.4, 1.0], vault_01_Vault_12_geo
+[2022.12.11-01.02.10:835][106]LogMeshUtilities: Finished distance field build in 0.1s - 11x17x23 distance field, 2136 triangles, Range [-0.0, 1.0], vault_01_Vault_13_geo
+[2022.12.11-01.02.10:835][106]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x21 distance field, 280 triangles, Range [0.0, 1.0], vault_01_Vault_14_geo
+[2022.12.11-01.02.10:835][106]LogMeshUtilities: Finished distance field build in 0.0s - 8x12x8 distance field, 1556 triangles, Range [-0.0, 0.8], vault_01_Vault_15_geo
+[2022.12.11-01.02.10:835][106]LogMeshUtilities: Finished distance field build in 0.0s - 8x11x8 distance field, 264 triangles, Range [-0.0, 1.0], vault_01_Vault_16_geo
+[2022.12.11-01.02.10:835][106]LogMeshUtilities: Discarded distance field for vault_01_Vault_17_geo as mesh was not closed!  Assign a two-sided material to fix.
+[2022.12.11-01.02.10:835][106]LogMeshUtilities: Finished distance field build in 0.0s - 9x14x19 distance field, 3696 triangles, Range [-0.2, 1.0], vault_01_Vault_17_geo
+[2022.12.11-01.02.10:835][106]LogMeshUtilities: Finished distance field build in 0.0s - 9x11x20 distance field, 1468 triangles, Range [-0.0, 0.7], vault_01_Vault_18_geo
+[2022.12.11-01.02.10:835][106]LogStaticMesh: Building static mesh vault_01_Vault_01_geo...
+[2022.12.11-01.02.10:855][106]LogStaticMesh: Built static mesh [0.06s] /Game/Models/Porp/StaticMesh/vault_01_Vault_01_geo.vault_01_Vault_01_geo
+[2022.12.11-01.02.10:888][106]LogStaticMesh: Building static mesh vault_01_Vault_02_geo...
+[2022.12.11-01.02.10:893][106]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Porp/StaticMesh/vault_01_Vault_02_geo.vault_01_Vault_02_geo
+[2022.12.11-01.02.10:930][106]LogStaticMesh: Building static mesh vault_01_Vault_03_geo...
+[2022.12.11-01.02.10:934][106]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Porp/StaticMesh/vault_01_Vault_03_geo.vault_01_Vault_03_geo
+[2022.12.11-01.02.11:066][106]LogMeshUtilities: Finished distance field build in 0.2s - 17x22x22 distance field, 1830 triangles, Range [-0.1, 1.0], vault_01_Vault_01_geo
+[2022.12.11-01.02.11:066][106]LogStaticMesh: Building static mesh vault_01_Vault_04_geo...
+[2022.12.11-01.02.11:073][106]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Porp/StaticMesh/vault_01_Vault_04_geo.vault_01_Vault_04_geo
+[2022.12.11-01.02.11:209][106]LogMeshUtilities: Discarded distance field for vault_01_Vault_03_geo as mesh was not closed!  Assign a two-sided material to fix.
+[2022.12.11-01.02.11:209][106]LogMeshUtilities: Finished distance field build in 0.0s - 8x9x8 distance field, 320 triangles, Range [-0.4, 0.9], vault_01_Vault_03_geo
+[2022.12.11-01.02.11:209][106]LogMeshUtilities: Finished distance field build in 0.0s - 9x13x13 distance field, 448 triangles, Range [-0.1, 1.0], vault_01_Vault_02_geo
+[2022.12.11-01.02.11:209][106]LogMeshUtilities: Discarded distance field for vault_01_Vault_04_geo as mesh was not closed!  Assign a two-sided material to fix.
+[2022.12.11-01.02.11:209][106]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 114 triangles, Range [-0.4, 1.0], vault_01_Vault_04_geo
+[2022.12.11-01.02.11:209][106]LogStaticMesh: Building static mesh vault_01_Vault_05_geo...
+[2022.12.11-01.02.11:233][106]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Porp/StaticMesh/vault_01_Vault_05_geo.vault_01_Vault_05_geo
+[2022.12.11-01.02.11:235][106]LogStaticMesh: Building static mesh vault_01_Vault_06_geo...
+[2022.12.11-01.02.11:238][106]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Porp/StaticMesh/vault_01_Vault_06_geo.vault_01_Vault_06_geo
+[2022.12.11-01.02.17:029][106]LogMeshUtilities: Finished distance field build in 0.1s - 10x16x18 distance field, 736 triangles, Range [-0.0, 1.0], vault_01_Vault_05_geo
+[2022.12.11-01.02.17:030][106]LogMeshUtilities: Discarded distance field for vault_01_Vault_06_geo as mesh was not closed!  Assign a two-sided material to fix.
+[2022.12.11-01.02.17:030][106]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 170 triangles, Range [-0.4, 0.9], vault_01_Vault_06_geo
+[2022.12.11-01.02.18:688][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.18:729][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.18:774][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.18:876][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.18:925][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:072][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:138][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:203][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:266][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:310][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:365][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:410][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:448][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:513][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:537][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:633][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:729][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:754][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:779][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:858][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:883][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:924][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.19:948][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.20:008][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.20:035][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.20:117][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.20:154][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.20:217][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.20:269][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.20:383][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.20:493][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.20:554][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.21:825][106]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/RoomsMerge.RoomsMerge
+[2022.12.11-01.02.21:978][106]Cmd: MAP LOAD FILE="../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Content/Maps/RoomsMerge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.11-01.02.21:978][106]LightingResults: New page: Lighting Build
+[2022.12.11-01.02.21:978][106]LoadErrors: New page: Loading map: RoomsMerge.umap
+[2022.12.11-01.02.22:802][106]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.02.23:264][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.02.23:493][106]MapCheck: New page: Map Check
+[2022.12.11-01.02.23:493][106]LightingResults: New page: Lighting Build
+[2022.12.11-01.02.23:816][106]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-01.02.23:897][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.12.11-01.02.24:020][106]LogAudio: Display: Audio Device (ID: 1) registered with world 'RoomsMerge'.
+[2022.12.11-01.02.55:668][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.55:704][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.55:733][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.55:760][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.55:792][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.55:818][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.55:844][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.55:899][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.55:926][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.55:981][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.56:008][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.56:033][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.56:060][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.56:085][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.56:132][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.56:174][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.56:507][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.56:533][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.56:557][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.56:583][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.56:609][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.56:636][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.56:819][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.56:917][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.56:952][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.57:005][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.57:030][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.57:055][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.57:100][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.57:134][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.57:166][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.57:192][106]PIE: Warning: Calling GetSectionFromStaticMesh on Modular_Building_Base_Wall_Kit_LOD0_vjqjebjdw_4 but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2022.12.11-01.02.59:812][106]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.11-01.02.59:812][106]LogAIModule: Creating AISystem for world RoomsMerge
+[2022.12.11-01.03.00:257][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.12.11-01.03.00:297][106]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.11-01.03.00:297][106]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.232ms to complete.
+[2022.12.11-01.03.00:297][106]LogFileHelpers: Loading map 'RoomsMerge' took 38.319
+[2022.12.11-01.03.00:469][106]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/FiercePC/Documents/GitHub/Heist0/Content/' took 112.91s
+[2022.12.11-01.03.05:689][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE31)
+[2022.12.11-01.03.16:115][706]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Maps/Blueprints/BP_Vault.BP_Vault
+[2022.12.11-01.03.16:659][706]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.12.11-01.03.19:225][706]LogSlate: Took 0.021623 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.11-01.03.19:598][707]LogSlate: Took 0.016373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.11-01.03.21:023][771]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2022.12.11-01.03.29:982][ 86]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Maps/Blueprints/BP_MeetingRoom.BP_MeetingRoom
+[2022.12.11-01.04.38:270][181]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Maps/Blueprints/BP_Roof.BP_Roof
+[2022.12.11-01.04.54:136][140]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Maps/Blueprints/BP_SecurityRoom.BP_SecurityRoom
+[2022.12.11-01.04.55:035][164]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Maps/Blueprints/BP_Stairs.BP_Stairs
+[2022.12.11-01.04.58:352][298]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Maps/Blueprints/BP_VaultDoor.BP_VaultDoor
+[2022.12.11-01.05.33:312][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Paint_18)
+[2022.12.11-01.05.36:802][213]LogEditorViewport: Clicking on Actor (LMB): BP_MeetingRoom_C (BP_MeetingRoom)
+[2022.12.11-01.05.37:442][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush3_StaticMesh40)
+[2022.12.11-01.05.41:301][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shelves_2A)
+[2022.12.11-01.05.42:864][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shelves_3B)
+[2022.12.11-01.05.44:795][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MusicCenter01B2)
+[2022.12.11-01.05.45:533][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MusicCenter01A)
+[2022.12.11-01.05.46:607][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pot_Flower_7)
+[2022.12.11-01.05.47:549][800]LogEditorViewport: Clicking on Actor (LMB): BP_MBuilding01_C (BP_MBuilding2)
+[2022.12.11-01.05.49:864][949]LogEditorViewport: Clicking on Actor (LMB): BP_MBuilding01_C (BP_MBuilding2)
+[2022.12.11-01.05.51:451][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Recyclebin2)
+[2022.12.11-01.05.53:469][158]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2022.12.11-01.05.57:084][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.12.11-01.05.59:967][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Window01)
+[2022.12.11-01.06.04:986][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE18)
+[2022.12.11-01.06.08:781][881]LogEditorViewport: Clicking on Actor (LMB): BP_SecurityRoom_C (BP_SecurityRoom)
+[2022.12.11-01.06.43:974][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TV02)
+[2022.12.11-01.06.46:829][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Drawer_7)
+[2022.12.11-01.06.50:735][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_4)
+[2022.12.11-01.06.52:707][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_3)
+[2022.12.11-01.06.53:539][232]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2022.12.11-01.06.54:834][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa01Part4)
+[2022.12.11-01.07.04:588][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ClosetMetal3)
+[2022.12.11-01.07.07:953][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE42)
+[2022.12.11-01.07.09:367][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SofaGuestTable2)
+[2022.12.11-01.07.09:875][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TV3)
+[2022.12.11-01.07.15:168][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterCooler)
+[2022.12.11-01.07.18:115][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pot_Flower_4)
+[2022.12.11-01.07.19:466][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pot_Flower_3)
+[2022.12.11-01.07.20:425][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Desk_16)
+[2022.12.11-01.07.26:609][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Desk_15)
+[2022.12.11-01.07.28:630][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Paint_15)
+[2022.12.11-01.07.33:192][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CopyMachine3)
+[2022.12.11-01.07.35:141][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Desk_8)
+[2022.12.11-01.07.37:593][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DustBin_3)
+[2022.12.11-01.07.50:750][492]Cmd: DELETE
+[2022.12.11-01.07.50:757][492]Cmd: ACTOR DELETE
+[2022.12.11-01.07.51:428][492]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.11-01.07.51:550][492]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.12.11-01.07.51:560][492]LogEditorActor: Deleted 1 Actors (0.457 secs)
+[2022.12.11-01.08.08:413][473]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.11-01.08.08:415][473]LogPlayLevel: [PlayLevel] Compiling BP_MeetingRoom before play...
+[2022.12.11-01.08.08:725][473]LogPlayLevel: [PlayLevel] Compiling BP_Roof before play...
+[2022.12.11-01.08.08:819][473]LogPlayLevel: [PlayLevel] Compiling BP_SecurityRoom before play...
+[2022.12.11-01.08.08:912][473]LogPlayLevel: [PlayLevel] Compiling BP_Vault before play...
+[2022.12.11-01.08.09:004][473]LogPlayLevel: [PlayLevel] Compiling BP_VaultDoor before play...
+[2022.12.11-01.08.09:107][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.12.11-01.08.09:110][473]LogPlayLevel: PlayLevel: Blueprint regeneration took 695 ms (5 blueprints)
+[2022.12.11-01.08.09:121][473]PIE: New page: PIE session: RoomsMerge (11 Dec 2022, 01:08:09)
+[2022.12.11-01.08.09:236][473]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.12.11-01.08.09:239][473]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.11-01.08.09:243][473]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RoomsMerge
+[2022.12.11-01.08.11:050][473]LogPlayLevel: PIE: StaticDuplicateObject took: (1.798392s)
+[2022.12.11-01.08.11:053][473]LogAIModule: Creating AISystem for world RoomsMerge
+[2022.12.11-01.08.11:068][473]LogPlayLevel: PIE: World Init took: (0.018344s)
+[2022.12.11-01.08.11:069][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RoomsMerge.RoomsMerge to /Game/Maps/UEDPIE_0_RoomsMerge.RoomsMerge (1.825420s)
+[2022.12.11-01.08.11:124][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.12.11-01.08.11:131][473]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.11-01.08.11:131][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.11-01.08.11:131][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.11-01.08.11:131][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.11-01.08.11:131][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.11-01.08.11:131][473]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.11-01.08.11:131][473]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.11-01.08.11:131][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.11-01.08.11:131][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.11-01.08.11:131][473]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.11-01.08.11:131][473]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.11-01.08.11:149][473]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.11-01.08.11:149][473]LogAudioMixer: Display: 1: FrontRight
+[2022.12.11-01.08.11:155][473]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.11-01.08.11:156][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.11-01.08.11:156][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.11-01.08.11:156][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.11-01.08.11:156][473]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.11-01.08.11:156][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.11-01.08.11:156][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.11-01.08.11:167][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.11-01.08.11:167][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.11-01.08.11:168][473]LogInit: FAudioDevice initialized.
+[2022.12.11-01.08.11:168][473]LogAudio: Display: Audio Device (ID: 2) registered with world 'RoomsMerge'.
+[2022.12.11-01.08.11:213][473]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.12.11-01.08.11:707][473]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RoomsMerge.RoomsMerge up for play (max tick rate 0) at 2022.12.11-01.08.11
+[2022.12.11-01.08.11:922][473]LogWorld: Bringing up level for play took: 0.601723
+[2022.12.11-01.08.12:299][473]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.12.11-01.08.12:440][473]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.12.11-01.08.12:834][473]PIE: Server logged in
+[2022.12.11-01.08.12:855][473]PIE: Play in editor total start time 4.482 seconds.
+[2022.12.11-01.08.14:443][475]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.12.11-01.08.15:493][494]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/VFX/SFX/Impacts/Generic_Ground_Impacts.Generic_Ground_Impacts was zero and has changed. Consider manually Re-saving the asset
+[2022.12.11-01.08.15:528][494]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1
+	PistolProjectle_C /Game/Maps/UEDPIE_0_RoomsMerge.RoomsMerge:PersistentLevel.PistolProjectle_C_0
+	Function /Game/VFX/Projectiles/PistolProjectle.PistolProjectle_C:ExecuteUbergraph_PistolProjectle:909F
+[2022.12.11-01.08.15:529][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1". Blueprint:  PistolProjectle Function:  Execute Ubergraph Pistol Projectle Graph:  EventGraph Node:  Branch
+[2022.12.11-01.08.16:333][523]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1
+	PistolProjectle_C /Game/Maps/UEDPIE_0_RoomsMerge.RoomsMerge:PersistentLevel.PistolProjectle_C_1
+	Function /Game/VFX/Projectiles/PistolProjectle.PistolProjectle_C:ExecuteUbergraph_PistolProjectle:909F
+[2022.12.11-01.08.16:334][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1". Blueprint:  PistolProjectle Function:  Execute Ubergraph Pistol Projectle Graph:  EventGraph Node:  Branch
+[2022.12.11-01.08.16:973][547]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1
+	PistolProjectle_C /Game/Maps/UEDPIE_0_RoomsMerge.RoomsMerge:PersistentLevel.PistolProjectle_C_2
+	Function /Game/VFX/Projectiles/PistolProjectle.PistolProjectle_C:ExecuteUbergraph_PistolProjectle:909F
+[2022.12.11-01.08.16:973][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1". Blueprint:  PistolProjectle Function:  Execute Ubergraph Pistol Projectle Graph:  EventGraph Node:  Branch
+[2022.12.11-01.08.17:503][585]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1
+	PistolProjectle_C /Game/Maps/UEDPIE_0_RoomsMerge.RoomsMerge:PersistentLevel.PistolProjectle_C_3
+	Function /Game/VFX/Projectiles/PistolProjectle.PistolProjectle_C:ExecuteUbergraph_PistolProjectle:909F
+[2022.12.11-01.08.17:503][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1". Blueprint:  PistolProjectle Function:  Execute Ubergraph Pistol Projectle Graph:  EventGraph Node:  Branch
+[2022.12.11-01.08.24:379][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-01.08.24:379][ 10]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RoomsMerge
+[2022.12.11-01.08.24:470][ 10]LogWorld: UWorld::CleanupWorld for RoomsMerge, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.08.24:575][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.08.24:764][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.11-01.08.24:811][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.08.25:056][ 10]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-01.08.25:185][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.11-01.08.25:187][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.11-01.08.25:284][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-01.08.25:765][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2022.12.11-01.08.26:146][ 10]LogSlate: Took 0.020405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.11-01.08.26:162][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.12.11-01.08.27:381][ 74]LogSlate: Window 'Message Log' being destroyed
+[2022.12.11-01.08.27:402][ 74]LogSlate: Window 'Message Log' being destroyed
+[2022.12.11-01.08.28:149][116]LogEditorViewport: Clicking on Actor (LMB): MoneyBag_C (MoneyBag)
+[2022.12.11-01.08.31:816][294]Cmd: TRANSACTION UNDO
+[2022.12.11-01.08.31:816][294]LogEditorTransaction: Undo Move Actors
+[2022.12.11-01.08.38:501][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.11-01.08.38:501][618]PIE: New page: PIE session: RoomsMerge (11 Dec 2022, 01:08:38)
+[2022.12.11-01.08.38:501][618]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RoomsMerge
+[2022.12.11-01.08.40:166][618]LogPlayLevel: PIE: StaticDuplicateObject took: (1.665470s)
+[2022.12.11-01.08.40:167][618]LogAIModule: Creating AISystem for world RoomsMerge
+[2022.12.11-01.08.40:167][618]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2022.12.11-01.08.40:167][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RoomsMerge.RoomsMerge to /Game/Maps/UEDPIE_0_RoomsMerge.RoomsMerge (1.666678s)
+[2022.12.11-01.08.40:305][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.12.11-01.08.40:311][618]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.11-01.08.40:311][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.11-01.08.40:311][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.11-01.08.40:311][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.11-01.08.40:311][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.11-01.08.40:311][618]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.11-01.08.40:311][618]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.11-01.08.40:311][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.11-01.08.40:311][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.11-01.08.40:312][618]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.11-01.08.40:312][618]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.11-01.08.40:316][618]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.11-01.08.40:316][618]LogAudioMixer: Display: 1: FrontRight
+[2022.12.11-01.08.40:322][618]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.11-01.08.40:322][618]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.11-01.08.40:323][618]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.11-01.08.40:323][618]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.11-01.08.40:323][618]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.11-01.08.40:323][618]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.11-01.08.40:323][618]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.11-01.08.40:334][618]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.11-01.08.40:334][618]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.11-01.08.40:334][618]LogInit: FAudioDevice initialized.
+[2022.12.11-01.08.40:334][618]LogAudio: Display: Audio Device (ID: 3) registered with world 'RoomsMerge'.
+[2022.12.11-01.08.40:346][618]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.12.11-01.08.40:544][618]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RoomsMerge.RoomsMerge up for play (max tick rate 0) at 2022.12.11-01.08.40
+[2022.12.11-01.08.40:548][618]LogWorld: Bringing up level for play took: 0.200336
+[2022.12.11-01.08.40:836][618]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.12.11-01.08.40:855][618]PIE: Server logged in
+[2022.12.11-01.08.40:856][618]PIE: Play in editor total start time 2.358 seconds.
+[2022.12.11-01.08.42:135][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-01.08.42:135][663]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RoomsMerge
+[2022.12.11-01.08.42:141][663]LogWorld: UWorld::CleanupWorld for RoomsMerge, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.08.42:172][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.08.42:185][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.11-01.08.42:206][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.08.42:278][663]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-01.08.42:278][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.11-01.08.42:279][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.11-01.08.42:293][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-01.08.42:317][663]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.12.11-01.08.42:433][664]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.12.11-01.08.42:938][692]LogEditorViewport: Clicking on Actor (LMB): MoneyBag_C (MoneyBag)
+[2022.12.11-01.08.46:232][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.11-01.08.46:232][872]PIE: New page: PIE session: RoomsMerge (11 Dec 2022, 01:08:46)
+[2022.12.11-01.08.46:232][872]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RoomsMerge
+[2022.12.11-01.08.47:880][872]LogPlayLevel: PIE: StaticDuplicateObject took: (1.648378s)
+[2022.12.11-01.08.47:881][872]LogAIModule: Creating AISystem for world RoomsMerge
+[2022.12.11-01.08.47:881][872]LogPlayLevel: PIE: World Init took: (0.001469s)
+[2022.12.11-01.08.47:881][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RoomsMerge.RoomsMerge to /Game/Maps/UEDPIE_0_RoomsMerge.RoomsMerge (1.650127s)
+[2022.12.11-01.08.47:928][872]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.12.11-01.08.47:935][872]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.12.11-01.08.47:935][872]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.11-01.08.47:935][872]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.11-01.08.47:935][872]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.11-01.08.47:935][872]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.11-01.08.47:935][872]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.11-01.08.47:935][872]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.11-01.08.47:935][872]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.11-01.08.47:935][872]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.11-01.08.47:936][872]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.11-01.08.47:936][872]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.11-01.08.47:941][872]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.11-01.08.47:941][872]LogAudioMixer: Display: 1: FrontRight
+[2022.12.11-01.08.47:947][872]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.11-01.08.47:947][872]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.11-01.08.47:947][872]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.11-01.08.47:947][872]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.11-01.08.47:947][872]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.11-01.08.47:947][872]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.11-01.08.47:947][872]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.11-01.08.47:959][872]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.11-01.08.47:959][872]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.11-01.08.47:959][872]LogInit: FAudioDevice initialized.
+[2022.12.11-01.08.47:959][872]LogAudio: Display: Audio Device (ID: 4) registered with world 'RoomsMerge'.
+[2022.12.11-01.08.47:970][872]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.12.11-01.08.48:165][872]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RoomsMerge.RoomsMerge up for play (max tick rate 0) at 2022.12.11-01.08.48
+[2022.12.11-01.08.48:170][872]LogWorld: Bringing up level for play took: 0.197698
+[2022.12.11-01.08.48:459][872]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.12.11-01.08.48:472][872]PIE: Server logged in
+[2022.12.11-01.08.48:473][872]PIE: Play in editor total start time 2.244 seconds.
+[2022.12.11-01.08.49:555][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-01.08.49:555][907]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RoomsMerge
+[2022.12.11-01.08.49:560][907]LogWorld: UWorld::CleanupWorld for RoomsMerge, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.08.49:591][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.08.49:599][907]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.11-01.08.49:620][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.08.49:689][907]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-01.08.49:689][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.11-01.08.49:690][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.11-01.08.49:703][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-01.08.49:729][907]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.12.11-01.08.50:107][908]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.12.11-01.08.50:505][931]LogEditorViewport: Clicking on Actor (LMB): MoneyBag_C (MoneyBag)
+[2022.12.11-01.08.50:750][945]Cmd: DELETE
+[2022.12.11-01.08.50:750][945]Cmd: ACTOR DELETE
+[2022.12.11-01.08.51:050][945]LogEditorActor: Deleted Actor: MoneyBag_C
+[2022.12.11-01.08.51:092][945]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.12.11-01.08.51:100][945]LogEditorActor: Deleted 1 Actors (0.199 secs)
+[2022.12.11-01.08.53:040][ 44]LogEditorViewport: Clicking on Actor (LMB): Civilian_C (Civilian6)
+[2022.12.11-01.08.58:441][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MMetro_Sign_A)
+[2022.12.11-01.09.01:569][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wiring01G2)
+[2022.12.11-01.09.02:928][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_VendingMachine01)
+[2022.12.11-01.09.03:417][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_VendingMachine02)
+[2022.12.11-01.09.04:373][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctC)
+[2022.12.11-01.09.06:102][494]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_AirDuctG2)
+[2022.12.11-01.09.09:118][628]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_AirDuctG)
+[2022.12.11-01.09.36:341][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Florosent11)
+[2022.12.11-01.09.43:411][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ShopSign03)
+[2022.12.11-01.09.46:341][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (YourCar)
+[2022.12.11-01.09.49:448][629]LogEditorViewport: Clicking on Actor (LMB): PoliceCar_C (PoliceCar)
+[2022.12.11-01.09.50:778][723]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.11-01.09.50:801][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.11-01.09.50:801][723]PIE: New page: PIE session: RoomsMerge (11 Dec 2022, 01:09:50)
+[2022.12.11-01.09.50:801][723]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RoomsMerge
+[2022.12.11-01.09.52:534][723]LogPlayLevel: PIE: StaticDuplicateObject took: (1.733211s)
+[2022.12.11-01.09.52:535][723]LogAIModule: Creating AISystem for world RoomsMerge
+[2022.12.11-01.09.52:535][723]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2022.12.11-01.09.52:535][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RoomsMerge.RoomsMerge to /Game/Maps/UEDPIE_0_RoomsMerge.RoomsMerge (1.734756s)
+[2022.12.11-01.09.52:583][723]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.12.11-01.09.52:589][723]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.12.11-01.09.52:589][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.11-01.09.52:589][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.11-01.09.52:589][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.11-01.09.52:589][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.11-01.09.52:589][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.11-01.09.52:589][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.11-01.09.52:589][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.11-01.09.52:589][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.11-01.09.52:590][723]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.11-01.09.52:590][723]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.11-01.09.52:595][723]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.11-01.09.52:595][723]LogAudioMixer: Display: 1: FrontRight
+[2022.12.11-01.09.52:600][723]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.11-01.09.52:601][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.11-01.09.52:601][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.11-01.09.52:601][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.11-01.09.52:601][723]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.11-01.09.52:601][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.11-01.09.52:601][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.11-01.09.52:614][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.11-01.09.52:614][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.11-01.09.52:614][723]LogInit: FAudioDevice initialized.
+[2022.12.11-01.09.52:614][723]LogAudio: Display: Audio Device (ID: 5) registered with world 'RoomsMerge'.
+[2022.12.11-01.09.52:622][723]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.12.11-01.09.52:818][723]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RoomsMerge.RoomsMerge up for play (max tick rate 0) at 2022.12.11-01.09.52
+[2022.12.11-01.09.52:823][723]LogWorld: Bringing up level for play took: 0.199063
+[2022.12.11-01.09.53:112][723]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.12.11-01.09.53:126][723]PIE: Server logged in
+[2022.12.11-01.09.53:126][723]PIE: Play in editor total start time 2.328 seconds.
+[2022.12.11-01.09.56:510][859]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/VFX/SFX/Impacts/Dirt_Impacts.Dirt_Impacts was zero and has changed. Consider manually Re-saving the asset
+[2022.12.11-01.09.56:523][859]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/VFX/SFX/Impacts/Ricochets.Ricochets was zero and has changed. Consider manually Re-saving the asset
+[2022.12.11-01.09.56:888][873]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/VFX/SFX/Impacts/Glass_Impacts.Glass_Impacts was zero and has changed. Consider manually Re-saving the asset
+[2022.12.11-01.09.59:344][971]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1
+	PistolProjectle_C /Game/Maps/UEDPIE_0_RoomsMerge.RoomsMerge:PersistentLevel.PistolProjectle_C_6
+	Function /Game/VFX/Projectiles/PistolProjectle.PistolProjectle_C:ExecuteUbergraph_PistolProjectle:909F
+[2022.12.11-01.09.59:344][971]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1". Blueprint:  PistolProjectle Function:  Execute Ubergraph Pistol Projectle Graph:  EventGraph Node:  Branch
+[2022.12.11-01.10.04:081][177]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/VFX/SFX/Impacts/PolySnaps_Impacts2.PolySnaps_Impacts2 was zero and has changed. Consider manually Re-saving the asset
+[2022.12.11-01.10.04:688][206]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/VFX/SFX/Impacts/Fabric_impacts.Fabric_impacts was zero and has changed. Consider manually Re-saving the asset
+[2022.12.11-01.10.08:166][364]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1
+	EnemyPistol_C /Game/Maps/UEDPIE_0_RoomsMerge.RoomsMerge:PersistentLevel.EnemyPistol_C_35
+	Function /Game/VFX/Projectiles/EnemyPistol.EnemyPistol_C:ExecuteUbergraph_EnemyPistol:912E
+[2022.12.11-01.10.08:166][364]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1". Blueprint:  EnemyPistol Function:  Execute Ubergraph Enemy Pistol Graph:  EventGraph Node:  Branch
+[2022.12.11-01.10.09:382][419]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1
+	EnemyPistol_C /Game/Maps/UEDPIE_0_RoomsMerge.RoomsMerge:PersistentLevel.EnemyPistol_C_39
+	Function /Game/VFX/Projectiles/EnemyPistol.EnemyPistol_C:ExecuteUbergraph_EnemyPistol:912E
+[2022.12.11-01.10.09:382][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1". Blueprint:  EnemyPistol Function:  Execute Ubergraph Enemy Pistol Graph:  EventGraph Node:  Branch
+[2022.12.11-01.10.11:749][543]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/VFX/SFX/Impacts/PolySnaps_Impacts.PolySnaps_Impacts was zero and has changed. Consider manually Re-saving the asset
+[2022.12.11-01.10.11:809][546]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1
+	EnemyPistol_C /Game/Maps/UEDPIE_0_RoomsMerge.RoomsMerge:PersistentLevel.EnemyPistol_C_49
+	Function /Game/VFX/Projectiles/EnemyPistol.EnemyPistol_C:ExecuteUbergraph_EnemyPistol:912E
+[2022.12.11-01.10.11:809][546]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1". Blueprint:  EnemyPistol Function:  Execute Ubergraph Enemy Pistol Graph:  EventGraph Node:  Branch
+[2022.12.11-01.10.13:322][610]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1
+	EnemyPistol_C /Game/Maps/UEDPIE_0_RoomsMerge.RoomsMerge:PersistentLevel.EnemyPistol_C_60
+	Function /Game/VFX/Projectiles/EnemyPistol.EnemyPistol_C:ExecuteUbergraph_EnemyPistol:912E
+[2022.12.11-01.10.13:322][610]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor_1". Blueprint:  EnemyPistol Function:  Execute Ubergraph Enemy Pistol Graph:  EventGraph Node:  Branch
+[2022.12.11-01.10.16:025][765]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2360.000 Y=-1780.000 Z=30.000] for [EnemyAIWanderer_C]
+[2022.12.11-01.10.17:239][819]LogCharacterMovement: EnemyAIWanderer_C_11 is stuck and failed to move! Velocity: X=49.20 Y=-153.92 Z=0.00 Location: X=-1597.86 Y=-209.52 Z=90.05 Normal: X=-0.91 Y=0.42 Z=-0.00 PenetrationDepth:3.645 Actor:1M_Cube_DM5_11 Component:DestructibleComponent0 BoneName:Part05 (0 other events since notify)
+[2022.12.11-01.10.17:795][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-01.10.17:795][842]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RoomsMerge
+[2022.12.11-01.10.17:801][842]LogWorld: UWorld::CleanupWorld for RoomsMerge, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.10.17:834][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.10.17:847][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.11-01.10.17:865][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.10.17:942][842]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-01.10.17:942][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.11-01.10.17:943][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.11-01.10.17:955][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-01.10.18:098][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.12.11-01.10.18:250][843]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.12.11-01.10.19:721][900]LogSlate: Window 'Message Log' being destroyed
+[2022.12.11-01.10.19:750][900]LogSlate: Window 'Message Log' being destroyed
+[2022.12.11-01.10.33:031][473]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Civilian.Civilian
+[2022.12.11-01.10.42:203][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Civilian" FILE="../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Content/ThirdPersonBP/Blueprints/Civilian.uasset" SILENT=true
+[2022.12.11-01.10.42:496][163]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Saved/Civilian8C9F030C44A122EB272CC5805DBB1327.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Content/ThirdPersonBP/Blueprints/Civilian.uasset'
+[2022.12.11-01.10.42:542][163]AssetCheck: New page: Asset Save: Civilian
+[2022.12.11-01.10.42:542][163]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Civilian.Civilian
+[2022.12.11-01.10.49:161][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ClosetShortand)
+[2022.12.11-01.10.52:049][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Paint_16)
+[2022.12.11-01.10.53:501][766]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Paint_11)
+[2022.12.11-01.10.54:679][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Paint_12)
+[2022.12.11-01.10.55:715][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Paint_16)
+[2022.12.11-01.10.59:627][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Clock5)
+[2022.12.11-01.11.03:263][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Paint_16)
+[2022.12.11-01.11.04:901][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE12)
+[2022.12.11-01.11.06:309][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE13)
+[2022.12.11-01.11.10:203][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AirDuctE25)
+[2022.12.11-01.11.12:928][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Paint_18)
+[2022.12.11-01.11.25:234][ 94]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Maps/Blueprints/BP_RoofDec.BP_RoofDec
+[2022.12.11-01.11.33:604][432]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM7)
+[2022.12.11-01.11.45:416][985]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/YashNew/AI_Blueprints/EnemyAIWanderer.EnemyAIWanderer
+[2022.12.11-01.12.01:394][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2022.12.11-01.12.17:688][  0]LogSlate: Window 'Save Content' being destroyed
+[2022.12.11-01.12.17:728][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blueprints/BP_MeetingRoom" FILE="../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Content/Maps/Blueprints/BP_MeetingRoom.uasset" SILENT=true
+[2022.12.11-01.12.17:762][  0]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Saved/BP_MeetingRoom7D32700F4AF88CD37F1150A09C244238.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Content/Maps/Blueprints/BP_MeetingRoom.uasset'
+[2022.12.11-01.12.17:770][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blueprints/BP_Roof" FILE="../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Content/Maps/Blueprints/BP_Roof.uasset" SILENT=true
+[2022.12.11-01.12.17:796][  0]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Saved/BP_RoofDD1B4E0D4CC56D0884B518816BD920BF.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Content/Maps/Blueprints/BP_Roof.uasset'
+[2022.12.11-01.12.17:820][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blueprints/BP_SecurityRoom" FILE="../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Content/Maps/Blueprints/BP_SecurityRoom.uasset" SILENT=true
+[2022.12.11-01.12.17:840][  0]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Saved/BP_SecurityRoomE089CE3B43FA027070E70897A366B1AA.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Content/Maps/Blueprints/BP_SecurityRoom.uasset'
+[2022.12.11-01.12.17:849][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blueprints/BP_Vault" FILE="../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Content/Maps/Blueprints/BP_Vault.uasset" SILENT=true
+[2022.12.11-01.12.17:873][  0]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Saved/BP_Vault839D94CD437AD6B5484C94A296793E81.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Content/Maps/Blueprints/BP_Vault.uasset'
+[2022.12.11-01.12.17:882][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blueprints/BP_VaultDoor" FILE="../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Content/Maps/Blueprints/BP_VaultDoor.uasset" SILENT=true
+[2022.12.11-01.12.17:898][  0]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Saved/BP_VaultDoor05D6B0174F9BCA4212FCBFBF72D954BA.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Content/Maps/Blueprints/BP_VaultDoor.uasset'
+[2022.12.11-01.12.17:917][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/RoomsMerge" FILE="../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Content/Maps/RoomsMerge.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.11-01.12.17:981][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.12.11-01.12.25:653][  0]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Saved/RoomsMerge5FF36E9F49F529A70978CD9BCE42C474.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/Heist0/Content/Maps/RoomsMerge.umap'
+[2022.12.11-01.12.25:733][  0]LogFileHelpers: Saving map 'RoomsMerge' took 7.819
+[2022.12.11-01.12.25:903][  0]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.25:903][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.12.26:067][  0]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.11-01.12.26:068][  0]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.26:068][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.12.26:133][  0]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.11-01.12.26:133][  0]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.26:134][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.12.26:189][  0]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.11-01.12.26:189][  0]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.26:189][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.12.26:259][  0]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.11-01.12.26:259][  0]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.26:259][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.12.26:320][  0]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.11-01.12.26:320][  0]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.26:320][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.12.26:377][  0]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.11-01.12.26:377][  0]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.26:377][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.12.26:435][  0]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.11-01.12.26:435][  0]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.26:435][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.12.26:474][  0]LogSlate: Window 'EnemyAIWanderer' being destroyed
+[2022.12.11-01.12.26:510][  0]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.11-01.12.26:510][  0]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.26:510][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-01.12.27:116][  0]LogSlate: Window 'Heist - Unreal Editor' being destroyed
+[2022.12.11-01.12.27:344][  0]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.11-01.12.27:344][  0]LogContentValidation: Display: Validating Blueprint /Game/Maps/Blueprints/BP_VaultDoor.BP_VaultDoor
+[2022.12.11-01.12.27:344][  0]LogContentValidation: Display: Validating Blueprint /Game/Maps/Blueprints/BP_Vault.BP_Vault
+[2022.12.11-01.12.27:344][  0]LogContentValidation: Display: Validating Blueprint /Game/Maps/Blueprints/BP_SecurityRoom.BP_SecurityRoom
+[2022.12.11-01.12.27:344][  0]LogContentValidation: Display: Validating Blueprint /Game/Maps/Blueprints/BP_Roof.BP_Roof
+[2022.12.11-01.12.27:344][  0]LogContentValidation: Display: Validating Blueprint /Game/Maps/Blueprints/BP_MeetingRoom.BP_MeetingRoom
+[2022.12.11-01.12.27:344][  0]LogContentValidation: Display: Validating World /Game/Maps/RoomsMerge.RoomsMerge
+[2022.12.11-01.12.27:355][  1]Cmd: QUIT_EDITOR
+[2022.12.11-01.12.27:355][  1]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.12.11-01.12.27:409][  1]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.12.11-01.12.28:090][  1]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.12.11-01.12.28:090][  1]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.12.11-01.12.28:090][  1]LogAudio: Display: Audio Device unregistered from world 'RoomsMerge'.
+[2022.12.11-01.12.28:091][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.11-01.12.28:092][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.11-01.12.28:148][  1]LogAudio: Display: Audio Device Manager Shutdown
+[2022.12.11-01.12.28:165][  1]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.11-01.12.28:680][  1]LogExit: Preparing to exit.
+[2022.12.11-01.12.29:899][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815E2F00] Windows
+[2022.12.11-01.12.29:899][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815E2E00] Default__DeviceProfile
+[2022.12.11-01.12.29:899][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B1300] WindowsNoEditor
+[2022.12.11-01.12.29:899][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815E1300] WindowsServer
+[2022.12.11-01.12.29:899][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B2700] WindowsClient
+[2022.12.11-01.12.29:899][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815E2600] IOS
+[2022.12.11-01.12.29:899][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B1C00] iPadAir
+[2022.12.11-01.12.29:899][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815E1B00] iPadAir2
+[2022.12.11-01.12.29:899][  1]LogDeviceProfile: Device profile begin destroy: [000002A481558100] IPadPro
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A481558200] iPadAir3
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815E3000] iPadAir4
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155A800] iPadMini2
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815E1200] iPadMini3
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A481558600] iPadMini4
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815E1800] iPadMini5
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153F900] iPhone6
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153FA00] iPodTouch6
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155A400] iPhone7
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155A500] iPodTouch7
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153D700] iPhone5S
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A481558F00] iPhone6Plus
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153FC00] iPhone6S
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155AF00] iPhone6SPlus
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153D300] iPhone7Plus
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155B100] iPhoneSE
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153E300] iPhone8
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A481558300] iPhone8Plus
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153F600] iPhoneX
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A481558E00] iPhoneXS
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153D600] iPhoneXSMax
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155BF00] iPhoneXR
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153FF00] iPhone11
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A481559100] iPhone11Pro
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153D400] iPhone11ProMax
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A481559300] iPhoneSE2
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153F200] iPhone12Mini
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155B200] iPhone12
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153E900] iPhone12Pro
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A481558B00] iPhone12ProMax
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153E100] iPadPro105
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155A900] iPadPro129
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153CE00] iPadPro97
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155A300] iPadPro2_129
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153F000] iPad5
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155B900] iPad6
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153CB00] iPad7
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A481558A00] iPad8
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153D100] iPadPro11
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A481558D00] iPadPro2_11
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153C800] iPadPro3_129
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A481559800] iPadPro4_129
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153FE00] AppleTV
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155BE00] AppleTV4K
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153D800] TVOS
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155B800] Mac
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48153E000] MacClient
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A481559E00] MacNoEditor
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B0C00] MacServer
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48163D100] Linux
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B3300] LinuxAArch64
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48163C500] LinuxNoEditor
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B3400] LinuxAArch64NoEditor
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48163C100] LinuxClient
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B0300] LinuxAArch64Client
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48163C600] LinuxServer
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B2800] LinuxAArch64Server
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48163D400] Android
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B2000] Android_Low
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48163CC00] Android_Mid
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B1A00] Android_High
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48163D800] Android_Default
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B1100] Android_Adreno4xx
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155A100] Android_Adreno5xx_Low
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B3900] Android_Adreno5xx
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155B600] Android_Adreno6xx
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B3000] Android_Adreno6xx_Vulkan
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155A000] Android_Mali_T6xx
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B1900] Android_Mali_T7xx
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155B300] Android_Mali_T8xx
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B0600] Android_Mali_G71
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155BC00] Android_Mali_G72
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B0900] Android_Mali_G72_Vulkan
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A481558400] Android_Mali_G76
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B3100] Android_Mali_G76_Vulkan
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155AB00] Android_Mali_G77
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B1700] Android_Mali_G77_Vulkan
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155AA00] Android_Vulkan_SM5
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B0D00] Android_PowerVR_G6xxx
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155A200] Android_PowerVR_GT7xxx
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B3500] Android_PowerVR_GE8xxx
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155AE00] Android_PowerVR_GM9xxx
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B2100] Android_PowerVR_GM9xxx_Vulkan
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A481558500] Android_TegraK1
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B3700] Android_Unknown_Vulkan
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155AD00] Lumin
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A4815B0A00] Lumin_Desktop
+[2022.12.11-01.12.29:900][  1]LogDeviceProfile: Device profile begin destroy: [000002A48155B500] HoloLens
+[2022.12.11-01.12.30:561][  1]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:566][  1]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:570][  1]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:574][  1]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:579][  1]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:583][  1]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:588][  1]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:592][  1]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:597][  1]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:601][  1]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:605][  1]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:609][  1]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:614][  1]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:618][  1]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:622][  1]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:626][  1]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:631][  1]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:635][  1]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:639][  1]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:643][  1]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:647][  1]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:652][  1]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:656][  1]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:660][  1]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.30:665][  1]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.31:350][  1]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.12.11-01.12.32:663][  1]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-01.12.32:667][  1]LogExit: Editor shut down
+[2022.12.11-01.12.32:667][  1]LogExit: Transaction tracking system shut down
+[2022.12.11-01.12.37:781][  1]LogExit: Object subsystem successfully closed.
+[2022.12.11-01.12.38:902][  1]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.12.11-01.12.44:691][  1]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (826)
+[2022.12.11-01.12.44:691][  1]LogModuleManager: Shutting down and abandoning module Voice (824)
+[2022.12.11-01.12.44:710][  1]LogModuleManager: Shutting down and abandoning module BlueprintGraph (822)
+[2022.12.11-01.12.44:710][  1]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (820)
+[2022.12.11-01.12.44:710][  1]LogModuleManager: Shutting down and abandoning module SceneOutliner (818)
+[2022.12.11-01.12.44:710][  1]LogModuleManager: Shutting down and abandoning module AddContentDialog (816)
+[2022.12.11-01.12.44:717][  1]LogModuleManager: Shutting down and abandoning module WidgetCarousel (815)
+[2022.12.11-01.12.44:717][  1]LogModuleManager: Shutting down and abandoning module EditorWidgets (812)
+[2022.12.11-01.12.44:717][  1]LogModuleManager: Shutting down and abandoning module StatsViewer (810)
+[2022.12.11-01.12.44:742][  1]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (808)
+[2022.12.11-01.12.44:750][  1]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (806)
